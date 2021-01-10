@@ -23,7 +23,7 @@ out.
 
 ## Documentation Components
 
-This repository houses and manages several arms of documentation for CircleCI.
+This repository houses and manages several arms of the documentation for CircleCI.
 This section will provide a brief overview of each "component" and how to get 
 started with making changes.
 
